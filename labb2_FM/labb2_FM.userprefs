@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{96BF8C85-4C87-4792-88E0-356B2C059A6E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="labb2_FM/MainActivity.cs">
+    <Files>
+      <File FileName="labb2_FM/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.labb2__FM PreferredExecutionTarget="Android.3_7_WVGA_Nexus_One_API_24" />
+</Properties>
